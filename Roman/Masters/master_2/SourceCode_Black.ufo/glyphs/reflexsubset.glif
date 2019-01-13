@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reflexsubset" format="1">
+  <advance width="600"/>
+  <unicode hex="2286"/>
+  <outline>
+    <contour>
+      <point x="57" y="0" type="line"/>
+      <point x="57" y="120" type="line"/>
+      <point x="543" y="120" type="line"/>
+      <point x="543" y="0" type="line"/>
+    </contour>
+    <component base="propersubset" yOffset="53"/>
+  </outline>
+</glyph>

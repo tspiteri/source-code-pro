@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notexistential" format="1">
+  <advance width="600"/>
+  <unicode hex="2204"/>
+  <outline>
+    <contour>
+      <point x="78" y="-120" type="line"/>
+      <point x="184" y="-120" type="line"/>
+      <point x="522" y="770" type="line"/>
+      <point x="416" y="770" type="line"/>
+    </contour>
+    <component base="existential"/>
+  </outline>
+</glyph>

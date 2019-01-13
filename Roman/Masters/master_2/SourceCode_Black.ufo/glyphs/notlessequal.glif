@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notlessequal" format="1">
+  <advance width="600"/>
+  <unicode hex="2270"/>
+  <outline>
+    <contour>
+      <point x="78" y="-120" type="line"/>
+      <point x="184" y="-120" type="line"/>
+      <point x="522" y="690" type="line"/>
+      <point x="416" y="690" type="line"/>
+    </contour>
+    <component base="lessequal"/>
+  </outline>
+</glyph>
