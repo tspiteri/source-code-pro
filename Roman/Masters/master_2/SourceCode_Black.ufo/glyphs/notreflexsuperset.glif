@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="notreflexsuperset" format="1">
-  <advance width="600"/>
-  <unicode hex="2289"/>
-  <outline>
-    <contour>
-      <point x="78" y="-120" type="line"/>
-      <point x="416" y="742" type="line"/>
-      <point x="522" y="742" type="line"/>
-      <point x="184" y="-120" type="line"/>
-    </contour>
-    <component base="reflexsuperset"/>
-  </outline>
+	<unicode hex="2289"/>
+	<advance width="600"/>
+	<outline>
+		<component base="reflexsuperset"/>
+		<contour>
+			<point x="78" y="-120" type="line"/>
+			<point x="184" y="-120" type="line"/>
+			<point x="522" y="742" type="line"/>
+			<point x="416" y="742" type="line"/>
+		</contour>
+	</outline>
 </glyph>

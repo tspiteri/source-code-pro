@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="reflexsubset" format="1">
-  <advance width="600"/>
-  <unicode hex="2286"/>
-  <outline>
-    <contour>
-      <point x="83" y="0" type="line"/>
-      <point x="83" y="28" type="line"/>
-      <point x="517" y="28" type="line"/>
-      <point x="517" y="0" type="line"/>
-    </contour>
-    <component base="propersubset"/>
-  </outline>
+	<unicode hex="2286"/>
+	<advance width="600"/>
+	<outline>
+		<component base="propersubset"/>
+		<contour>
+			<point x="82" y="0" type="line"/>
+			<point x="518" y="0" type="line"/>
+			<point x="518" y="28" type="line"/>
+			<point x="82" y="28" type="line"/>
+		</contour>
+	</outline>
 </glyph>

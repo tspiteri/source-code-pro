@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="notsuperset" format="1">
-  <advance width="600"/>
-  <unicode hex="2285"/>
-  <outline>
-    <contour>
-      <point x="78" y="-23" type="line"/>
-      <point x="416" y="689" type="line"/>
-      <point x="522" y="689" type="line"/>
-      <point x="184" y="-23" type="line"/>
-    </contour>
-    <component base="propersuperset"/>
-  </outline>
+	<unicode hex="2285"/>
+	<advance width="600"/>
+	<outline>
+		<component base="propersuperset"/>
+		<contour>
+			<point x="78" y="-23" type="line"/>
+			<point x="184" y="-23" type="line"/>
+			<point x="522" y="689" type="line"/>
+			<point x="416" y="689" type="line"/>
+		</contour>
+	</outline>
 </glyph>
