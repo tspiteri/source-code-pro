@@ -1606,6 +1606,18 @@
 			<string>ratio</string>
 			<string>similar</string>
 			<string>reversedtilde</string>
+			<string>wreathproduct</string>
+			<string>notsimilar</string>
+			<string>minustilde</string>
+			<string>asymptequal</string>
+			<string>notasymptequal</string>
+			<string>congruent</string>
+			<string>approxnotequal</string>
+			<string>notapproxequal</string>
+			<string>notalmostequal</string>
+			<string>almostorequal</string>
+			<string>tildetrpl</string>
+			<string>allequal</string>
 			<string>colonequal</string>
 			<string>equalcolon</string>
 			<string>notidentical</string>
@@ -2091,12 +2103,18 @@
 			<string>uni1EA3.a</string>
 			<key>aie</key>
 			<string>uni04D5</string>
+			<key>allequal</key>
+			<string>uni224C</string>
+			<key>almostorequal</key>
+			<string>uni224A</string>
 			<key>alphalatin</key>
 			<string>uni0251</string>
 			<key>alphalatinturned</key>
 			<string>uni0252</string>
 			<key>apostrophemod</key>
 			<string>uni02BC</string>
+			<key>approxnotequal</key>
+			<string>uni2246</string>
 			<key>arrowdbldown</key>
 			<string>uni21D3</string>
 			<key>arrowdblleft</key>
@@ -2141,6 +2159,8 @@
 			<string>uni1FDF.cap</string>
 			<key>aspertildecmb</key>
 			<string>uni03120303</string>
+			<key>asymptequal</key>
+			<string>uni2243</string>
 			<key>aturned</key>
 			<string>uni0250</string>
 			<key>bardbl</key>
@@ -2319,6 +2339,8 @@
 			<string>uni0312</string>
 			<key>commaturnedmod</key>
 			<string>uni02BB</string>
+			<key>congruent</key>
+			<string>uni2245</string>
 			<key>coproduct</key>
 			<string>uni2210</string>
 			<key>darkshade</key>
@@ -3009,6 +3031,8 @@
 			<string>uni0320</string>
 			<key>minusplus</key>
 			<string>uni2213</string>
+			<key>minustilde</key>
+			<string>uni2242</string>
 			<key>mlonglegturned</key>
 			<string>uni0270</string>
 			<key>mturned</key>
@@ -3045,6 +3069,12 @@
 			<string>uni1E49</string>
 			<key>nor</key>
 			<string>uni22BD</string>
+			<key>notalmostequal</key>
+			<string>uni2249</string>
+			<key>notapproxequal</key>
+			<string>uni2247</string>
+			<key>notasymptequal</key>
+			<string>uni2244</string>
 			<key>notelement</key>
 			<string>uni2209</string>
 			<key>notemusical</key>
@@ -3073,6 +3103,8 @@
 			<string>uni2288</string>
 			<key>notreflexsuperset</key>
 			<string>uni2289</string>
+			<key>notsimilar</key>
+			<string>uni2241</string>
 			<key>notsubset</key>
 			<string>uni2284</string>
 			<key>notsuperset</key>
@@ -3375,6 +3407,8 @@
 			<string>uni0303.cap</string>
 			<key>tildeoverlaycmb</key>
 			<string>uni0334</string>
+			<key>tildetrpl</key>
+			<string>uni224B</string>
 			<key>tlinebelow</key>
 			<string>uni1E6F</string>
 			<key>tonoscmb</key>
@@ -3577,6 +3611,8 @@
 			<string>uni028C</string>
 			<key>won</key>
 			<string>uni20A9</string>
+			<key>wreathproduct</key>
+			<string>uni2240</string>
 			<key>wturned</key>
 			<string>uni028D</string>
 			<key>xabovecmb</key>

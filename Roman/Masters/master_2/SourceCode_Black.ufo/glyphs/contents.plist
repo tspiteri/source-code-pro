@@ -798,6 +798,10 @@
 		<string>ahoi.a.glif</string>
 		<key>aie</key>
 		<string>aie.glif</string>
+		<key>allequal</key>
+		<string>allequal.glif</string>
+		<key>almostorequal</key>
+		<string>almostorequal.glif</string>
 		<key>alpha</key>
 		<string>alpha.glif</string>
 		<key>alphalatin</key>
@@ -824,6 +828,8 @@
 		<string>apostrophemod.glif</string>
 		<key>approxequal</key>
 		<string>approxequal.glif</string>
+		<key>approxnotequal</key>
+		<string>approxnotequal.glif</string>
 		<key>aring</key>
 		<string>aring.glif</string>
 		<key>aring.a</key>
@@ -894,6 +900,8 @@
 		<string>asterisk.glif</string>
 		<key>asterisk.a</key>
 		<string>asterisk.a.glif</string>
+		<key>asymptequal</key>
+		<string>asymptequal.glif</string>
 		<key>at</key>
 		<string>at.glif</string>
 		<key>at.case</key>
@@ -1146,6 +1154,8 @@
 		<string>commaturnedabovecmb.glif</string>
 		<key>commaturnedmod</key>
 		<string>commaturnedmod.glif</string>
+		<key>congruent</key>
+		<string>congruent.glif</string>
 		<key>coproduct</key>
 		<string>coproduct.glif</string>
 		<key>copyright</key>
@@ -2186,6 +2196,8 @@
 		<string>minusbelowcmb.glif</string>
 		<key>minusplus</key>
 		<string>minusplus.glif</string>
+		<key>minustilde</key>
+		<string>minustilde.glif</string>
 		<key>mlonglegturned</key>
 		<string>mlonglegturned.glif</string>
 		<key>mturned</key>
@@ -2252,6 +2264,12 @@
 		<string>nlinebelow.glif</string>
 		<key>nor</key>
 		<string>nor.glif</string>
+		<key>notalmostequal</key>
+		<string>notalmostequal.glif</string>
+		<key>notapproxequal</key>
+		<string>notapproxequal.glif</string>
+		<key>notasymptequal</key>
+		<string>notasymptequal.glif</string>
 		<key>notelement</key>
 		<string>notelement.glif</string>
 		<key>notemusical</key>
@@ -2282,6 +2300,8 @@
 		<string>notreflexsubset.glif</string>
 		<key>notreflexsuperset</key>
 		<string>notreflexsuperset.glif</string>
+		<key>notsimilar</key>
+		<string>notsimilar.glif</string>
 		<key>notsubset</key>
 		<string>notsubset.glif</string>
 		<key>notsuperset</key>
@@ -2862,6 +2882,8 @@
 		<string>tildecmb.cap.glif</string>
 		<key>tildeoverlaycmb</key>
 		<string>tildeoverlaycmb.glif</string>
+		<key>tildetrpl</key>
+		<string>tildetrpl.glif</string>
 		<key>tlinebelow</key>
 		<string>tlinebelow.glif</string>
 		<key>tonos</key>
@@ -3162,6 +3184,8 @@
 		<string>wgrave.glif</string>
 		<key>won</key>
 		<string>won.glif</string>
+		<key>wreathproduct</key>
+		<string>wreathproduct.glif</string>
 		<key>wturned</key>
 		<string>wturned.glif</string>
 		<key>x</key>
