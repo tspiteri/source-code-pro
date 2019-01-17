@@ -1590,7 +1590,16 @@
 			<string>uniE0B2</string>
 			<string>uniE0B3</string>
 			<string>notexistential</string>
+			<string>emptyset</string>
+			<string>nabla</string>
+			<string>element</string>
+			<string>notelement</string>
+			<string>owner</string>
+			<string>notowner</string>
 			<string>coproduct</string>
+			<string>minusplus</string>
+			<string>logicaland</string>
+			<string>logicalor</string>
 			<string>union</string>
 			<string>therefore</string>
 			<string>because</string>
@@ -1614,6 +1623,19 @@
 			<string>reflexsuperset</string>
 			<string>notreflexsubset</string>
 			<string>notreflexsuperset</string>
+			<string>subsetnotequal</string>
+			<string>supersetnotequal</string>
+			<string>xor</string>
+			<string>nand</string>
+			<string>nor</string>
+			<string>ellipsisvertical</string>
+			<string>midhorizellipsis</string>
+			<string>upslopeellipsis</string>
+			<string>downslopeellipsis</string>
+			<string>uni2A5C</string>
+			<string>uni2A5D</string>
+			<string>uni2A5F</string>
+			<string>uniF4A2</string>
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>
@@ -2451,6 +2473,8 @@
 			<string>uni025F</string>
 			<key>dotlessjstrokehook</key>
 			<string>uni0284</string>
+			<key>downslopeellipsis</key>
+			<string>uni22F1</string>
 			<key>downtackbelowcmb</key>
 			<string>uni031E</string>
 			<key>dtail</key>
@@ -2481,12 +2505,18 @@
 			<string>musicalnote</string>
 			<key>el</key>
 			<string>uni043B</string>
+			<key>element</key>
+			<string>uni2208</string>
+			<key>ellipsisvertical</key>
+			<string>uni22EE</string>
 			<key>em</key>
 			<string>uni043C</string>
 			<key>emacronacute</key>
 			<string>uni1E17</string>
 			<key>emoji</key>
 			<string>uniFE0F</string>
+			<key>emptyset</key>
+			<string>uni2205</string>
 			<key>en</key>
 			<string>uni043D</string>
 			<key>endescender</key>
@@ -2939,6 +2969,10 @@
 			<string>u1F512</string>
 			<key>lock.e</key>
 			<string>u1F512_uniFE0F</string>
+			<key>logicaland</key>
+			<string>uni2227</string>
+			<key>logicalor</key>
+			<string>uni2228</string>
 			<key>lownumeralsign</key>
 			<string>uni0375</string>
 			<key>lretroflex</key>
@@ -2969,8 +3003,12 @@
 			<string>uni2592</string>
 			<key>mhook</key>
 			<string>uni0271</string>
+			<key>midhorizellipsis</key>
+			<string>uni22EF</string>
 			<key>minusbelowcmb</key>
 			<string>uni0320</string>
+			<key>minusplus</key>
+			<string>uni2213</string>
 			<key>mlonglegturned</key>
 			<string>uni0270</string>
 			<key>mturned</key>
@@ -2983,8 +3021,12 @@
 			<string>uni226B</string>
 			<key>muchless</key>
 			<string>uni226A</string>
+			<key>nabla</key>
+			<string>uni2207</string>
 			<key>naira</key>
 			<string>uni20A6</string>
+			<key>nand</key>
+			<string>uni22BC</string>
 			<key>nbspace</key>
 			<string>uni00A0</string>
 			<key>ncommaaccent</key>
@@ -3001,6 +3043,10 @@
 			<string>uni045A</string>
 			<key>nlinebelow</key>
 			<string>uni1E49</string>
+			<key>nor</key>
+			<string>uni22BD</string>
+			<key>notelement</key>
+			<string>uni2209</string>
 			<key>notemusical</key>
 			<string>u1F3B5</string>
 			<key>notemusical.e</key>
@@ -3021,6 +3067,8 @@
 			<string>uni226E</string>
 			<key>notlessequal</key>
 			<string>uni2270</string>
+			<key>notowner</key>
+			<string>uni220C</string>
 			<key>notreflexsubset</key>
 			<string>uni2288</string>
 			<key>notreflexsuperset</key>
@@ -3103,6 +3151,8 @@
 			<string>uni0305</string>
 			<key>overlinecmb.cap</key>
 			<string>uni0305.cap</string>
+			<key>owner</key>
+			<string>uni220B</string>
 			<key>oxia</key>
 			<string>uni1FFD</string>
 			<key>oxia.cap</key>
@@ -3291,6 +3341,10 @@
 			<string>uni25A1</string>
 			<key>stigma</key>
 			<string>uni03DB</string>
+			<key>subsetnotequal</key>
+			<string>uni228A</string>
+			<key>supersetnotequal</key>
+			<string>uni228B</string>
 			<key>tcedilla</key>
 			<string>uni0163</string>
 			<key>tcommaaccent</key>
@@ -3461,6 +3515,8 @@
 			<string>uni259D</string>
 			<key>upsilonlatin</key>
 			<string>uni028A</string>
+			<key>upslopeellipsis</key>
+			<string>uni22F0</string>
 			<key>upsnghorzdblbxd</key>
 			<string>uni2567</string>
 			<key>upsngleftdblbxd</key>
@@ -3525,6 +3581,8 @@
 			<string>uni028D</string>
 			<key>xabovecmb</key>
 			<string>uni033D</string>
+			<key>xor</key>
+			<string>uni22BB</string>
 			<key>ya</key>
 			<string>uni044F</string>
 			<key>yat</key>

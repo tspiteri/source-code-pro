@@ -1340,6 +1340,8 @@
 		<string>dotlessjstroke.glif</string>
 		<key>dotlessjstrokehook</key>
 		<string>dotlessjstrokehook.glif</string>
+		<key>downslopeellipsis</key>
+		<string>downslopeellipsis.glif</string>
 		<key>downtackbelowcmb</key>
 		<string>downtackbelowcmb.glif</string>
 		<key>dtail</key>
@@ -1406,8 +1408,12 @@
 		<string>eighthnote.glif</string>
 		<key>el</key>
 		<string>el.glif</string>
+		<key>element</key>
+		<string>element.glif</string>
 		<key>ellipsis</key>
 		<string>ellipsis.glif</string>
+		<key>ellipsisvertical</key>
+		<string>ellipsisvertical.glif</string>
 		<key>em</key>
 		<string>em.glif</string>
 		<key>emacron</key>
@@ -1420,6 +1426,8 @@
 		<string>emdash.sups.glif</string>
 		<key>emoji</key>
 		<string>emoji.glif</string>
+		<key>emptyset</key>
+		<string>emptyset.glif</string>
 		<key>en</key>
 		<string>en.glif</string>
 		<key>endash</key>
@@ -2118,8 +2126,12 @@
 		<string>lock.glif</string>
 		<key>lock.e</key>
 		<string>lock.e.glif</string>
+		<key>logicaland</key>
+		<string>logicaland.glif</string>
 		<key>logicalnot</key>
 		<string>logicalnot.glif</string>
+		<key>logicalor</key>
+		<string>logicalor.glif</string>
 		<key>longs</key>
 		<string>longs.glif</string>
 		<key>lownumeralsign</key>
@@ -2166,10 +2178,14 @@
 		<string>mediumshade.glif</string>
 		<key>mhook</key>
 		<string>mhook.glif</string>
+		<key>midhorizellipsis</key>
+		<string>midhorizellipsis.glif</string>
 		<key>minus</key>
 		<string>minus.glif</string>
 		<key>minusbelowcmb</key>
 		<string>minusbelowcmb.glif</string>
+		<key>minusplus</key>
+		<string>minusplus.glif</string>
 		<key>mlonglegturned</key>
 		<string>mlonglegturned.glif</string>
 		<key>mturned</key>
@@ -2190,10 +2206,14 @@
 		<string>n.glif</string>
 		<key>n.sups</key>
 		<string>n.sups.glif</string>
+		<key>nabla</key>
+		<string>nabla.glif</string>
 		<key>nacute</key>
 		<string>nacute.glif</string>
 		<key>naira</key>
 		<string>naira.glif</string>
+		<key>nand</key>
+		<string>nand.glif</string>
 		<key>napostrophe</key>
 		<string>napostrophe.glif</string>
 		<key>nbspace</key>
@@ -2230,6 +2250,10 @@
 		<string>nje.glif</string>
 		<key>nlinebelow</key>
 		<string>nlinebelow.glif</string>
+		<key>nor</key>
+		<string>nor.glif</string>
+		<key>notelement</key>
+		<string>notelement.glif</string>
 		<key>notemusical</key>
 		<string>notemusical.glif</string>
 		<key>notemusical.e</key>
@@ -2252,6 +2276,8 @@
 		<string>notless.glif</string>
 		<key>notlessequal</key>
 		<string>notlessequal.glif</string>
+		<key>notowner</key>
+		<string>notowner.glif</string>
 		<key>notreflexsubset</key>
 		<string>notreflexsubset.glif</string>
 		<key>notreflexsuperset</key>
@@ -2410,6 +2436,8 @@
 		<string>overlinecmb.glif</string>
 		<key>overlinecmb.cap</key>
 		<string>overlinecmb.cap.glif</string>
+		<key>owner</key>
+		<string>owner.glif</string>
 		<key>oxia</key>
 		<string>oxia.glif</string>
 		<key>oxia.cap</key>
@@ -2762,8 +2790,12 @@
 		<string>sterling.glif</string>
 		<key>stigma</key>
 		<string>stigma.glif</string>
+		<key>subsetnotequal</key>
+		<string>subsetnotequal.glif</string>
 		<key>summation</key>
 		<string>summation.glif</string>
+		<key>supersetnotequal</key>
+		<string>supersetnotequal.glif</string>
 		<key>sun</key>
 		<string>sun.glif</string>
 		<key>t</key>
@@ -2960,6 +2992,12 @@
 		<string>underscoredbl.glif</string>
 		<key>undertie</key>
 		<string>undertie.glif</string>
+		<key>uni2A5C</key>
+		<string>uni2A_5C_.glif</string>
+		<key>uni2A5D</key>
+		<string>uni2A_5D_.glif</string>
+		<key>uni2A5F</key>
+		<string>uni2A_5F_.glif</string>
 		<key>uniE0A0</key>
 		<string>uniE_0A_0.glif</string>
 		<key>uniE0A1</key>
@@ -2974,6 +3012,8 @@
 		<string>uniE_0B_2.glif</string>
 		<key>uniE0B3</key>
 		<string>uniE_0B_3.glif</string>
+		<key>uniF4A2</key>
+		<string>uniF_4A_2.glif</string>
 		<key>union</key>
 		<string>union.glif</string>
 		<key>universal</key>
@@ -3040,6 +3080,8 @@
 		<string>upsilonlatin.glif</string>
 		<key>upsilontonos</key>
 		<string>upsilontonos.glif</string>
+		<key>upslopeellipsis</key>
+		<string>upslopeellipsis.glif</string>
 		<key>upsnghorzdblbxd</key>
 		<string>upsnghorzdblbxd.glif</string>
 		<key>upsngleftdblbxd</key>
@@ -3130,6 +3172,8 @@
 		<string>xabovecmb.glif</string>
 		<key>xi</key>
 		<string>xi.glif</string>
+		<key>xor</key>
+		<string>xor.glif</string>
 		<key>y</key>
 		<string>y.glif</string>
 		<key>y.sups</key>
