@@ -840,10 +840,14 @@
 		<string>aringacute.a.glif</string>
 		<key>arrowboth</key>
 		<string>arrowboth.glif</string>
+		<key>arrowdblboth</key>
+		<string>arrowdblboth.glif</string>
 		<key>arrowdbldown</key>
 		<string>arrowdbldown.glif</string>
 		<key>arrowdblleft</key>
 		<string>arrowdblleft.glif</string>
+		<key>arrowdbllongbothv</key>
+		<string>arrowdbllongbothv.glif</string>
 		<key>arrowdblright</key>
 		<string>arrowdblright.glif</string>
 		<key>arrowdblup</key>
@@ -900,6 +904,8 @@
 		<string>asterisk.glif</string>
 		<key>asterisk.a</key>
 		<string>asterisk.a.glif</string>
+		<key>asteriskmath</key>
+		<string>asteriskmath.glif</string>
 		<key>asymptequal</key>
 		<string>asymptequal.glif</string>
 		<key>at</key>
@@ -1160,6 +1166,8 @@
 		<string>coproduct.glif</string>
 		<key>copyright</key>
 		<string>copyright.glif</string>
+		<key>cuberoot</key>
+		<string>cuberoot.glif</string>
 		<key>currency</key>
 		<string>currency.glif</string>
 		<key>d</key>
@@ -1350,6 +1358,8 @@
 		<string>dotlessjstroke.glif</string>
 		<key>dotlessjstrokehook</key>
 		<string>dotlessjstrokehook.glif</string>
+		<key>dotmath</key>
+		<string>dotmath.glif</string>
 		<key>downslopeellipsis</key>
 		<string>downslopeellipsis.glif</string>
 		<key>downtackbelowcmb</key>
@@ -1560,6 +1570,8 @@
 		<string>four.sups.glif</string>
 		<key>fourfifths</key>
 		<string>fourfifths.glif</string>
+		<key>fourthroot</key>
+		<string>fourthroot.glif</string>
 		<key>fraction</key>
 		<string>fraction.glif</string>
 		<key>franc</key>
@@ -1644,6 +1656,8 @@
 		<string>greater.glif</string>
 		<key>greaterequal</key>
 		<string>greaterequal.glif</string>
+		<key>greaterequivlnt</key>
+		<string>greaterequivlnt.glif</string>
 		<key>gscript</key>
 		<string>gscript.glif</string>
 		<key>gsmall</key>
@@ -2052,6 +2066,8 @@
 		<string>less.glif</string>
 		<key>lessequal</key>
 		<string>lessequal.glif</string>
+		<key>lessequivlnt</key>
+		<string>lessequivlnt.glif</string>
 		<key>lezh</key>
 		<string>lezh.glif</string>
 		<key>lightarcdnleftbxd</key>
@@ -2288,12 +2304,16 @@
 		<string>notgreater.glif</string>
 		<key>notgreaterequal</key>
 		<string>notgreaterequal.glif</string>
+		<key>notgreaterequivlnt</key>
+		<string>notgreaterequivlnt.glif</string>
 		<key>notidentical</key>
 		<string>notidentical.glif</string>
 		<key>notless</key>
 		<string>notless.glif</string>
 		<key>notlessequal</key>
 		<string>notlessequal.glif</string>
+		<key>notlessequivlnt</key>
+		<string>notlessequivlnt.glif</string>
 		<key>notowner</key>
 		<string>notowner.glif</string>
 		<key>notreflexsubset</key>
@@ -2624,6 +2644,8 @@
 		<string>reflexsuperset.glif</string>
 		<key>registered</key>
 		<string>registered.glif</string>
+		<key>revasymptequal</key>
+		<string>revasymptequal.glif</string>
 		<key>reversedtilde</key>
 		<string>reversedtilde.glif</string>
 		<key>revlogicalnot</key>
@@ -3014,6 +3036,26 @@
 		<string>underscoredbl.glif</string>
 		<key>undertie</key>
 		<string>undertie.glif</string>
+		<key>uni1F12F</key>
+		<string>uni1F_12F_.glif</string>
+		<key>uni2218</key>
+		<string>uni2218.glif</string>
+		<key>uni27E8</key>
+		<string>uni27E_8.glif</string>
+		<key>uni27E9</key>
+		<string>uni27E_9.glif</string>
+		<key>uni27F5</key>
+		<string>uni27F_5.glif</string>
+		<key>uni27F6</key>
+		<string>uni27F_6.glif</string>
+		<key>uni27F7</key>
+		<string>uni27F_7.glif</string>
+		<key>uni27F8</key>
+		<string>uni27F_8.glif</string>
+		<key>uni27F9</key>
+		<string>uni27F_9.glif</string>
+		<key>uni27FA</key>
+		<string>uni27F_A_.glif</string>
 		<key>uni2A5C</key>
 		<string>uni2A_5C_.glif</string>
 		<key>uni2A5D</key>

@@ -1589,6 +1589,8 @@
 			<string>uniE0B1</string>
 			<string>uniE0B2</string>
 			<string>uniE0B3</string>
+			<string>arrowdblboth</string>
+			<string>arrowdbllongbothv</string>
 			<string>notexistential</string>
 			<string>emptyset</string>
 			<string>nabla</string>
@@ -1598,6 +1600,10 @@
 			<string>notowner</string>
 			<string>coproduct</string>
 			<string>minusplus</string>
+			<string>asteriskmath</string>
+			<string>uni2218</string>
+			<string>cuberoot</string>
+			<string>fourthroot</string>
 			<string>logicaland</string>
 			<string>logicalor</string>
 			<string>union</string>
@@ -1627,6 +1633,10 @@
 			<string>notgreater</string>
 			<string>notlessequal</string>
 			<string>notgreaterequal</string>
+			<string>lessequivlnt</string>
+			<string>greaterequivlnt</string>
+			<string>notlessequivlnt</string>
+			<string>notgreaterequivlnt</string>
 			<string>propersubset</string>
 			<string>propersuperset</string>
 			<string>notsubset</string>
@@ -1640,14 +1650,25 @@
 			<string>xor</string>
 			<string>nand</string>
 			<string>nor</string>
+			<string>dotmath</string>
+			<string>revasymptequal</string>
 			<string>ellipsisvertical</string>
 			<string>midhorizellipsis</string>
 			<string>upslopeellipsis</string>
 			<string>downslopeellipsis</string>
+			<string>uni27E8</string>
+			<string>uni27E9</string>
+			<string>uni27F5</string>
+			<string>uni27F6</string>
+			<string>uni27F7</string>
+			<string>uni27F8</string>
+			<string>uni27F9</string>
+			<string>uni27FA</string>
 			<string>uni2A5C</string>
 			<string>uni2A5D</string>
 			<string>uni2A5F</string>
 			<string>uniF4A2</string>
+			<string>uni1F12F</string>
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>
@@ -2115,10 +2136,14 @@
 			<string>uni02BC</string>
 			<key>approxnotequal</key>
 			<string>uni2246</string>
+			<key>arrowdblboth</key>
+			<string>uni21D4</string>
 			<key>arrowdbldown</key>
 			<string>uni21D3</string>
 			<key>arrowdblleft</key>
 			<string>uni21D0</string>
+			<key>arrowdbllongbothv</key>
+			<string>uni21D5</string>
 			<key>arrowdblright</key>
 			<string>uni21D2</string>
 			<key>arrowdblup</key>
@@ -2159,6 +2184,8 @@
 			<string>uni1FDF.cap</string>
 			<key>aspertildecmb</key>
 			<string>uni03120303</string>
+			<key>asteriskmath</key>
+			<string>uni2217</string>
 			<key>asymptequal</key>
 			<string>uni2243</string>
 			<key>aturned</key>
@@ -2343,6 +2370,8 @@
 			<string>uni2245</string>
 			<key>coproduct</key>
 			<string>uni2210</string>
+			<key>cuberoot</key>
+			<string>uni221B</string>
 			<key>darkshade</key>
 			<string>uni2593</string>
 			<key>dbldnhorzbxd</key>
@@ -2495,6 +2524,8 @@
 			<string>uni025F</string>
 			<key>dotlessjstrokehook</key>
 			<string>uni0284</string>
+			<key>dotmath</key>
+			<string>uni22C5</string>
 			<key>downslopeellipsis</key>
 			<string>uni22F1</string>
 			<key>downtackbelowcmb</key>
@@ -2589,6 +2620,8 @@
 			<string>uni0192</string>
 			<key>fourfifths</key>
 			<string>uni2158</string>
+			<key>fourthroot</key>
+			<string>uni221C</string>
 			<key>fullblock</key>
 			<string>uni2588</string>
 			<key>gacute</key>
@@ -2635,6 +2668,8 @@
 			<string>uni0300.cap</string>
 			<key>gravemod</key>
 			<string>uni02CB</string>
+			<key>greaterequivlnt</key>
+			<string>uni2273</string>
 			<key>gscript</key>
 			<string>uni0261</string>
 			<key>gsmall</key>
@@ -2909,6 +2944,8 @@
 			<string>uni1FCF.cap</string>
 			<key>lenistildecmb</key>
 			<string>uni03130303</string>
+			<key>lessequivlnt</key>
+			<string>uni2272</string>
 			<key>lezh</key>
 			<string>uni026E</string>
 			<key>lightarcdnleftbxd</key>
@@ -3091,12 +3128,16 @@
 			<string>uni226F</string>
 			<key>notgreaterequal</key>
 			<string>uni2271</string>
+			<key>notgreaterequivlnt</key>
+			<string>uni2275</string>
 			<key>notidentical</key>
 			<string>uni2262</string>
 			<key>notless</key>
 			<string>uni226E</string>
 			<key>notlessequal</key>
 			<string>uni2270</string>
+			<key>notlessequivlnt</key>
+			<string>uni2274</string>
 			<key>notowner</key>
 			<string>uni220C</string>
 			<key>notreflexsubset</key>
@@ -3253,6 +3294,8 @@
 			<string>uni2286</string>
 			<key>reflexsuperset</key>
 			<string>uni2287</string>
+			<key>revasymptequal</key>
+			<string>uni22CD</string>
 			<key>reversedtilde</key>
 			<string>uni223D</string>
 			<key>rfishhook</key>
